@@ -8,6 +8,7 @@ testinfo:
         the three possible logic paths: the default value when nothing is
         provided through configuration, a configured value that is non-empty
         and a configured value that is empty/null.
+        Added to force commit.
 
 properties:
     dependencies:
